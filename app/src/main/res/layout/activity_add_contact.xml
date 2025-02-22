@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        tools:layout_editor_absoluteX="132dp"
+        tools:layout_editor_absoluteY="16dp">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="New Contact"
+            android:textAlignment="center"
+            android:textColor="@color/material_dynamic_neutral_variant20"
+            android:textColorLink="@color/material_dynamic_neutral_variant20"
+            android:textDirection="firstStrong"
+            android:textSize="34sp" />
+
+        <EditText
+            android:id="@+id/contactNameEditText"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:hint="Contact Name" />
+
+        <EditText
+            android:id="@+id/contactNumberEditText"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:hint="Contact Number" />
+
+        <Button
+            android:id="@+id/saveContactButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save Contact" />
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -10,7 +10,7 @@ GuardianCycle is an advanced SOS and emergency alert application designed to ens
 - **Emergency Contacts:** Send alerts with location to predefined contacts.
 - **Location Tracking:** Real-time tracking during emergencies.
 - **Audio Recording:** Automatically records audio during SOS mode.
-- **Siren Activation:** Activates a siren to draw attention.
+- **Fake Call Generation:** Fakes up an incoming call so that the other people may think that the person is talking to someone on call.
 
 ---
 

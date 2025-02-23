@@ -112,6 +112,6 @@ GuardianCycle is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For questions or support, please contact:
-- **Email**: gdgpriyanshughosh@gmail.com
+- **Email**: 2006priyanshughosh@gmail.com
 - **GitHub**: [GuardianCycle Repository](https://github.com/Priyanshu-Ghosh-Unplugged/guardiancycle)
 
